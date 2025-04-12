@@ -12,6 +12,8 @@ Optional:
 - Notification
 
 Table schema:
+- Order ID
+- Phone
 - Address
 - Item name
 - Variant ID
